@@ -1,0 +1,4572 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NZ Market Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:NZ Markets & Crypto Calendar (24h alerts)
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:E001@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Citigroup - quarterly results (C)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Citigroup - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E002@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Goldman Sachs - quarterly results (GS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Goldman Sachs - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E003@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] JPMorgan (bank season starts) - quarterly results (JPM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: JPMorgan (bank season starts) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E004@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Johnson & Johnson - quarterly results (JNJ)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Neutral - no preview found - Reporting 13 Oct per TradingKey\; no consensus detail gathered.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Johnson & Johnson - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E005@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] UnitedHealth - quarterly results (UNH)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Neutral - no preview found - Reporting 13 Oct per TradingKey\; no consensus detail gathered.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: UnitedHealth - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E006@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261013T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Wells Fargo - quarterly results (WFC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 13-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Wells Fargo - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E007@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261014T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Bank of America - quarterly results (BAC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of America - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E008@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261014T103000Z
+DURATION:PT30M
+SUMMARY:[Med] BlackRock - quarterly results (BLK)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: BlackRock - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E009@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261014T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Morgan Stanley - quarterly results (MS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Mildly positive - yields a headwind - Solid profit growth expected\, helped by trading and capital markets\; the sharp rise in long Treasury yields has pressured bank stocks. Watch net interest income\, deposit costs\, credit losses and guidance. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Morgan Stanley - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E010@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261014T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 14-Oct-2026 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise. Sentiment: Cautious - hot-print risk - Consensus: headline ~3.7% y/y (prior 3.4%)\, ~0.6% m/m\; core ~0.2% m/m\, ~2.5% y/y\; Cleveland Fed nowcast ~3.6%. Fed hiked to 3.75-4.00% on 16 Sep. A hot core (0.3%+) would revive hike pricing (BTC bear case ~$80K)\; a soft core supports a hold (bull case ~$87.5K retest). Sources: TradingKey\, Admiral\, FinanceFeeds\, Mitrade.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E011@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261014T180000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 14-Oct-2026 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish. Sentiment: Neutral - watch prices/hiring - Focus on consumption\, hiring\, wages and costs. Rising costs plus resilient jobs would back the hawks\; broad cooling supports an October pause. Source: TradingKey.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E012@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261015T060000Z
+DURATION:PT30M
+SUMMARY:[High] TSMC - quarterly results (TSM)
+DESCRIPTION:Earnings | Confirmed (per week-ahead previews) | Source time: Thu 15-Oct-2026 14:00 CST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Positive lean (AI demand) - Q3 revenue already out at a record ~NT$1.49tn (~+50% y/y)\, above ~NT$1.46tn consensus. Focus: gross margin (guided 65-67%)\, capex and AI demand. Strong guidance supports AI/semis\; caution would hit them. Source: TradingKey.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: TSMC - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E013@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261015T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Charles Schwab - quarterly results (SCHW)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite. Sentiment: Neutral - no preview found - Reports 15 Oct per TradingKey\; no consensus detail gathered.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Charles Schwab - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E014@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[Med] Fed Chair Warsh fireside chat with IMF's Georgieva
+DESCRIPTION:Central Bank | Confirmed (per CoinGape preview)\; time not found | Source time: All day (local date 16-Oct-2026). Lean: Two-way\; no reliable direction Sentiment: Cautious - rate-path headline risk - Fed Chair Warsh joins the IMF's Georgieva for a fireside chat on Fri 16 Oct\; remarks could shift rate expectations. Source: CoinGape.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Chair Warsh fireside chat with IMF's Georgieva
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E015@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[Low] Pi Network 'Protocol 28' activation (PI)
+DESCRIPTION:Crypto | Verify - single media source | Source time: All day (local date 16-Oct-2026). Lean: Two-way\; no reliable direction Sentiment: Speculative - CoinGape asks whether activation will trigger a rally\; low-quality catalyst\, unverified.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Pi Network 'Protocol 28' activation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E016@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261015T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Thu 15-Oct-2026 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise. Sentiment: Cautious - Aug PPI was +0.4% m/m\, 5.4% y/y so business costs are high. Released the day after CPI to judge pass-through. No consensus figure found. Source: TradingKey.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E017@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261015T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US retail sales (Sep)
+DESCRIPTION:US Macro Data | Confirmed (per week-ahead previews) | Source time: Thu 15-Oct-2026 08:30 EDT. Lean: Two-way\; no reliable direction Sentiment: Neutral - no consensus found - Strong sales plus hot inflation = 'high inflation\, robust demand' (hawkish). A sharp drop shifts focus to growth risk. Source: TradingKey.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US retail sales (Sep)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E018@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261015T214500Z
+DURATION:PT30M
+SUMMARY:[Low] Stats NZ selected price indexes (Sep) - final monthly prices for Q3 CPI
+DESCRIPTION:NZ Macro Data | Per Westpac via interest.co.nz\; time assumed | Source time: Fri 16-Oct-2026 10:45 NZDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise. Sentiment: Neutral - NZD - Westpac expects Q3 CPI +0.7% q/q and 3.7% y/y (down from 4.1%)\; this monthly update helps confirm it. Source: interest.co.nz.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Stats NZ selected price indexes (Sep) - final monthly prices for Q3 CPI
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E019@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261016T200000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 16-Oct-2026 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility. Sentiment: Neutral - two-way volatility - Monthly US options expiry\; a crypto week-ahead (CoinCentral) also lists options expiry among catalysts. No directional signal.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E020@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261020T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Procter & Gamble - quarterly results (PG)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 20-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Procter & Gamble - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E021@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261020T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Netflix - quarterly results (NFLX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 20-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Netflix - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E022@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261021T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Coca-Cola - quarterly results (KO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coca-Cola - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E023@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261021T200000Z
+DURATION:PT30M
+SUMMARY:[Med] Tesla - quarterly results (TSLA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Oct-2026 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Tesla - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E024@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261021T200500Z
+DURATION:PT30M
+SUMMARY:[Med] IBM - quarterly results (IBM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: IBM - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E025@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261021T214500Z
+DURATION:PT30M
+SUMMARY:[High] NZ CPI (Q3 2026)
+DESCRIPTION:NZ Macro Data | Confirmed (Stats NZ date\, via secondary sources) | Source time: Thu 22-Oct-2026 10:45 NZDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise. Sentiment: Hawkish-leaning for NZD - Westpac: +0.7% q/q\, 3.7% y/y (from 4.1%) and sees 4.2% by Dec 2026 on fuel prices and a weak NZD. Still above the RBNZ 1-3% band. Source: interest.co.nz.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ CPI (Q3 2026)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E026@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261022T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Intel - quarterly results (INTC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 22-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Intel - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E027@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[Low] NZ election: last day to enrol
+DESCRIPTION:NZ Politics/Fiscal | Confirmed (official) | Source time: All day (local date 25-Oct-2026). Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Politics/Fiscal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ election: last day to enrol
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E028@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[Low] NZ Labour Day (NZX closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 26-Oct-2026). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Labour Day (NZX closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E029@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:[Low] NZ election: advance voting starts
+DESCRIPTION:NZ Politics/Fiscal | Confirmed (official) | Source time: All day (local date 26-Oct-2026). Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Politics/Fiscal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ election: advance voting starts
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E030@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261027T200000Z
+DURATION:PT30M
+SUMMARY:[High] Alphabet - quarterly results (GOOGL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 27-Oct-2026 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Alphabet - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E031@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261027T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Visa - quarterly results (V)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 27-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Visa - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E032@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261028T010000Z
+DURATION:PT30M
+SUMMARY:[Med] RBNZ OCR decision - Monetary Policy Review
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 28-Oct-2026 14:00 NZDT. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up. Sentiment: Hold expected\; Dec hike more likely - OCR is 2.75% after hikes on 8 Jul and 2 Sep. Westpac and the RBNZ's own forecasts point to a pause in October and a 25bp hike to 3% in December. Source: ActionForex (Westpac)\, calculate.co.nz.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Review
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E033@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261028T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 28-Oct-2026 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish. Sentiment: Hold priced (~80%+) - Polymarket ~83.5% hold (FinanceFeeds)\; Vantage puts hike odds near 20%\; some see a December hike (~70% per Mitrade). Fed raised to 3.75-4.00% on 16 Sep (12-0). Sources conflict - check CME FedWatch.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E034@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261028T200500Z
+DURATION:PT30M
+SUMMARY:[High] Meta - quarterly results (META)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Meta - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E035@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261028T200500Z
+DURATION:PT30M
+SUMMARY:[High] Microsoft - quarterly results (MSFT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Oct-2026 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Microsoft - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E036@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Mastercard - quarterly results (MA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Mastercard - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E037@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T123000Z
+DURATION:PT30M
+SUMMARY:[High] US GDP (advance estimate)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Thu 29-Oct-2026 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US GDP (advance estimate)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E038@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T131500Z
+DURATION:PT30M
+SUMMARY:[High] ECB rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Thu 29-Oct-2026 14:15 CET. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: ECB rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E039@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T200000Z
+DURATION:PT30M
+SUMMARY:[High] Amazon - quarterly results (AMZN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Oct-2026 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Amazon - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E040@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T200000Z
+DURATION:PT30M
+SUMMARY:[High] Apple - quarterly results (AAPL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Oct-2026 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Apple - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E041@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261029T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Coinbase (crypto bellwether) - quarterly results (COIN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Oct-2026 16:05 EDT. Lean: Tied to BTC sentiment\; results/guidance move crypto equities and can echo into coins.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coinbase (crypto bellwether) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E042@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T030000Z
+DURATION:PT30M
+SUMMARY:[High] Bank of Japan policy decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Fri 30-Oct-2026 12:00 JST. Lean: Hawkish surprise (rate hike) can trigger yen-carry unwinds and risk-off (seen Aug 2024).
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of Japan policy decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E043@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 30-Oct-2026 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E044@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Chevron - quarterly results (CVX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Chevron - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E045@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Exxon Mobil - quarterly results (XOM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Oct-2026 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Exxon Mobil - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E046@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Med] Mt. Gox creditor repayment deadline (BTC)
+DESCRIPTION:Crypto | Verify - not checked at source | Source time: All day (local date 31-Oct-2026). Lean: Bearish risk if repaid coins are sold (supply overhang)\; largely priced in. Wallet movements are the tell.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Mt. Gox creditor repayment deadline
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E047@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T123000Z
+DURATION:PT30M
+SUMMARY:[Low] US Employment Cost Index
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 30-Oct-2026 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Employment Cost Index
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E048@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261030T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 30-Oct-2026 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E049@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[Med] US clocks go back - US releases arrive 1 hr later in NZ
+DESCRIPTION:Time Change | Confirmed (official) | Source time: All day (local date 01-Nov-2026). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Time Change
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US clocks go back - US releases arrive 1 hr later in NZ
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E050@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261102T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Berkshire Hathaway - quarterly results (BRK.B)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Mon 02-Nov-2026 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Berkshire Hathaway - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E051@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T033000Z
+DURATION:PT30M
+SUMMARY:[High] RBA cash rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Tue 03-Nov-2026 14:30 AEDT. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBA cash rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E052@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Pfizer - quarterly results (PFE)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Nov-2026 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Pfizer - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E053@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T150000Z
+DURATION:PT30M
+SUMMARY:[Med] US JOLTS job openings (Sep)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 03-Nov-2026 10:00 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US JOLTS job openings (Sep)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E054@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T210500Z
+DURATION:PT30M
+SUMMARY:[Med] AMD - quarterly results (AMD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Nov-2026 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: AMD - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E055@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Palantir - quarterly results (PLTR)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Nov-2026 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Palantir - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E056@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261103T214500Z
+DURATION:PT30M
+SUMMARY:[High] NZ Labour market - unemployment (Q3)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Wed 04-Nov-2026 10:45 NZDT. Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Labour market - unemployment (Q3)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E057@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261104T000000Z
+DURATION:PT30M
+SUMMARY:[High] US midterm elections (polls begin closing)
+DESCRIPTION:US Politics | Confirmed (official) | Source time: Tue 03-Nov-2026 19:00 EST. Lean: Policy uncertainty\; two-way. Crypto-policy outcomes can matter.
+CATEGORIES:US Politics
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US midterm elections (polls begin closing)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E058@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261105T120000Z
+DURATION:PT30M
+SUMMARY:[High] Bank of England rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Thu 05-Nov-2026 12:00 GMT. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of England rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E059@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261106T133000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 06-Nov-2026 08:30 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E060@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261106T200000Z
+DURATION:PT30M
+SUMMARY:[High] NZ GENERAL ELECTION (voting 9am-7pm\; results from 7pm)
+DESCRIPTION:NZ Politics/Fiscal | Confirmed (official) | Source time: Sat 07-Nov-2026 09:00 NZDT. Lean: Policy uncertainty\; two-way. Crypto-policy outcomes can matter.
+CATEGORIES:NZ Politics/Fiscal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ GENERAL ELECTION (voting 9am-7pm\; results from 7pm)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E061@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261110T133000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 10-Nov-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E062@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261110T200000Z
+DURATION:PT30M
+SUMMARY:[Med] RBNZ Financial Stability Report
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 11-Nov-2026 09:00 NZDT. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ Financial Stability Report
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E063@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[Low] Xero (H1) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 12-Nov-2026). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Xero (H1) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E064@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261113T133000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 13-Nov-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E065@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[Low] Fisher & Paykel Healthcare (H1) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 18-Nov-2026). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fisher & Paykel Healthcare (H1) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E066@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261117T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Home Depot - quarterly results (HD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 17-Nov-2026 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Home Depot - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E067@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261118T190000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 18-Nov-2026 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E068@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261118T212000Z
+DURATION:PT30M
+SUMMARY:[High] Nvidia - quarterly results (NVDA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 18-Nov-2026 16:20 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Nvidia - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E069@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261119T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Walmart - quarterly results (WMT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 19-Nov-2026 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Walmart - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E070@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261120T210000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 20-Nov-2026 16:00 EST. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E071@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:[Low] US Thanksgiving (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 26-Nov-2026). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Thanksgiving (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E072@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261125T133000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Wed 25-Nov-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E073@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261125T190000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 25-Nov-2026 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E074@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:[Med] NZ election: official results declared
+DESCRIPTION:NZ Politics/Fiscal | Confirmed (official) | Source time: All day (local date 27-Nov-2026). Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Politics/Fiscal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ election: official results declared
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E075@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261127T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 27-Nov-2026 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E076@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261127T180000Z
+DURATION:PT30M
+SUMMARY:[Low] NYSE early close (day after Thanksgiving)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: Fri 27-Nov-2026 13:00 EST. Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NYSE early close (day after Thanksgiving)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E077@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261201T150000Z
+DURATION:PT30M
+SUMMARY:[Med] US JOLTS job openings (Oct)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 01-Dec-2026 10:00 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US JOLTS job openings (Oct)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E078@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261204T133000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 04-Dec-2026 08:30 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E079@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261208T033000Z
+DURATION:PT30M
+SUMMARY:[High] RBA cash rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Tue 08-Dec-2026 14:30 AEDT. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBA cash rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E080@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261209T010000Z
+DURATION:PT30M
+SUMMARY:[High] RBNZ OCR decision - Monetary Policy Statement
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 09-Dec-2026 14:00 NZDT. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E081@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261209T190000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement + SEP/dot plot
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 09-Dec-2026 14:00 EST. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement + SEP/dot plot
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E082@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261209T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Oracle - quarterly results (ORCL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 09-Dec-2026 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Oracle - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E083@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261210T133000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 10-Dec-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E084@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261210T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Broadcom - quarterly results (AVGO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 10-Dec-2026 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Broadcom - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E085@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261210T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Costco - quarterly results (COST)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 10-Dec-2026 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Costco - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E086@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261215T133000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 15-Dec-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E087@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261216T214500Z
+DURATION:PT30M
+SUMMARY:[Med] NZ GDP (Q3 2026)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Thu 17-Dec-2026 10:45 NZDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ GDP (Q3 2026)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E088@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261217T120000Z
+DURATION:PT30M
+SUMMARY:[High] Bank of England rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Thu 17-Dec-2026 12:00 GMT. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of England rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E089@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261217T131500Z
+DURATION:PT30M
+SUMMARY:[High] ECB rate decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Thu 17-Dec-2026 14:15 CET. Lean: Secondary for crypto\; matters via global liquidity/USD.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: ECB rate decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E090@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261218T030000Z
+DURATION:PT30M
+SUMMARY:[High] Bank of Japan policy decision
+DESCRIPTION:Central Bank | Verify - not checked at source | Source time: Fri 18-Dec-2026 12:00 JST. Lean: Hawkish surprise (rate hike) can trigger yen-carry unwinds and risk-off (seen Aug 2024).
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of Japan policy decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E091@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261218T210000Z
+DURATION:PT30M
+SUMMARY:[Med] US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 18-Dec-2026 16:00 EST. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E092@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261223T133000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Wed 23-Dec-2026 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E093@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:[Low] Christmas Day (NYSE closed\; NZX closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 25-Dec-2026). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Christmas Day (NYSE closed\; NZX closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E094@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261224T180000Z
+DURATION:PT30M
+SUMMARY:[Low] NYSE early close (Christmas Eve)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: Thu 24-Dec-2026 13:00 EST. Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NYSE early close (Christmas Eve)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E095@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261225T080000Z
+DURATION:PT30M
+SUMMARY:[High] Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger) (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 25-Dec-2026 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E096@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:[Low] NZ Boxing Day (observed) - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 28-Dec-2026). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Boxing Day (observed) - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E097@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20261230T190000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 30-Dec-2026 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E098@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:[Low] New Year's Day (NYSE and NZX closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 01-Jan-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: New Year's Day (NYSE and NZX closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E099@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:[Low] NZ Day after New Year (observed) - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 04-Jan-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Day after New Year (observed) - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E100@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270108T133000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 08-Jan-2027 08:30 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E101@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270113T113000Z
+DURATION:PT30M
+SUMMARY:[Med] JPMorgan (bank season starts) - quarterly results (JPM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 13-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: JPMorgan (bank season starts) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E102@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270113T133000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 13-Jan-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E103@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270113T190000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 13-Jan-2027 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E104@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Bank of America - quarterly results (BAC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 14-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of America - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E105@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Citigroup - quarterly results (C)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 14-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Citigroup - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E106@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Goldman Sachs - quarterly results (GS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 14-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Goldman Sachs - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E107@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Morgan Stanley - quarterly results (MS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 14-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Morgan Stanley - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E108@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Wells Fargo - quarterly results (WFC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 14-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Wells Fargo - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E109@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270114T133000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 14-Jan-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E110@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270115T060000Z
+DURATION:PT30M
+SUMMARY:[High] TSMC - quarterly results (TSM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 15-Jan-2027 14:00 CST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: TSMC - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E111@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270115T113000Z
+DURATION:PT30M
+SUMMARY:[Med] BlackRock - quarterly results (BLK)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 15-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: BlackRock - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E112@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270115T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Charles Schwab - quarterly results (SCHW)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 15-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Charles Schwab - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E113@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270115T113000Z
+DURATION:PT30M
+SUMMARY:[Med] UnitedHealth - quarterly results (UNH)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 15-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: UnitedHealth - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E114@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270115T210000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 15-Jan-2027 16:00 EST. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E115@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:[Low] US MLK Day (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 18-Jan-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US MLK Day (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E116@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270117T214500Z
+DURATION:PT30M
+SUMMARY:[High] NZ CPI (Q4 2026)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Mon 18-Jan-2027 10:45 NZDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ CPI (Q4 2026)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E117@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270120T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Johnson & Johnson - quarterly results (JNJ)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 20-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Johnson & Johnson - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E118@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270120T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Netflix - quarterly results (NFLX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 20-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Netflix - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E119@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270121T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Procter & Gamble - quarterly results (PG)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 21-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Procter & Gamble - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E120@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270127T190000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 27-Jan-2027 14:00 EST. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E121@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270127T210000Z
+DURATION:PT30M
+SUMMARY:[Med] Tesla - quarterly results (TSLA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 27-Jan-2027 16:00 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Tesla - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E122@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270127T210500Z
+DURATION:PT30M
+SUMMARY:[Med] IBM - quarterly results (IBM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 27-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: IBM - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E123@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270127T210500Z
+DURATION:PT30M
+SUMMARY:[High] Meta - quarterly results (META)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 27-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Meta - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E124@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270127T210500Z
+DURATION:PT30M
+SUMMARY:[High] Microsoft - quarterly results (MSFT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 27-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Microsoft - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E125@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270128T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Mastercard - quarterly results (MA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 28-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Mastercard - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E126@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270128T133000Z
+DURATION:PT30M
+SUMMARY:[High] US GDP (advance estimate)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Thu 28-Jan-2027 08:30 EST. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US GDP (advance estimate)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E127@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270128T210000Z
+DURATION:PT30M
+SUMMARY:[High] Apple - quarterly results (AAPL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 28-Jan-2027 16:00 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Apple - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E128@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270128T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Intel - quarterly results (INTC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 28-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Intel - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E129@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270128T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Visa - quarterly results (V)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 28-Jan-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Visa - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E130@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270129T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 29-Jan-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E131@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270129T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Chevron - quarterly results (CVX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 29-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Chevron - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E132@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270129T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Exxon Mobil - quarterly results (XOM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 29-Jan-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Exxon Mobil - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E133@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270129T133000Z
+DURATION:PT30M
+SUMMARY:[Low] US Employment Cost Index
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 29-Jan-2027 08:30 EST. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Employment Cost Index
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E134@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270129T133000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 29-Jan-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E135@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270202T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Pfizer - quarterly results (PFE)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 02-Feb-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Pfizer - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E136@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270202T210000Z
+DURATION:PT30M
+SUMMARY:[High] Alphabet - quarterly results (GOOGL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 02-Feb-2027 16:00 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Alphabet - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E137@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270202T210500Z
+DURATION:PT30M
+SUMMARY:[Med] AMD - quarterly results (AMD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 02-Feb-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: AMD - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E138@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270202T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Palantir - quarterly results (PLTR)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 02-Feb-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Palantir - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E139@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270202T214500Z
+DURATION:PT30M
+SUMMARY:[High] NZ Labour market - unemployment (Q4)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Wed 03-Feb-2027 10:45 NZDT. Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Labour market - unemployment (Q4)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E140@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270204T210000Z
+DURATION:PT30M
+SUMMARY:[High] Amazon - quarterly results (AMZN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 04-Feb-2027 16:00 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Amazon - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E141@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270205T133000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 05-Feb-2027 08:30 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E142@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:[Low] NZ Waitangi Day (observed) - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 08-Feb-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Waitangi Day (observed) - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E143@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270209T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Coca-Cola - quarterly results (KO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 09-Feb-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coca-Cola - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E144@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270210T010000Z
+DURATION:PT30M
+SUMMARY:[Med] RBNZ OCR decision - Monetary Policy Review
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 10-Feb-2027 14:00 NZDT. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Review
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E145@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270211T133000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 11-Feb-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E146@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270212T133000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 12-Feb-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E147@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270212T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Coinbase (crypto bellwether) - quarterly results (COIN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 12-Feb-2027 16:05 EST. Lean: Tied to BTC sentiment\; results/guidance move crypto equities and can echo into coins.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coinbase (crypto bellwether) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E148@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:[Low] US Presidents Day (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 15-Feb-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Presidents Day (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E149@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270217T190000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 17-Feb-2027 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E150@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270218T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Walmart - quarterly results (WMT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 18-Feb-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Walmart - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E151@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270219T210000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 19-Feb-2027 16:00 EST. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E152@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270223T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Home Depot - quarterly results (HD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 23-Feb-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Home Depot - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E153@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:[Low] Air New Zealand (H1) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 25-Feb-2027). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Air New Zealand (H1) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E154@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270224T212000Z
+DURATION:PT30M
+SUMMARY:[High] Nvidia - quarterly results (NVDA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 24-Feb-2027 16:20 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Nvidia - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E155@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270226T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 26-Feb-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E156@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270226T133000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 26-Feb-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E157@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270227T113000Z
+DURATION:PT30M
+SUMMARY:[Med] Berkshire Hathaway - quarterly results (BRK.B)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Sat 27-Feb-2027 06:30 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Berkshire Hathaway - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E158@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270303T190000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 03-Mar-2027 14:00 EST. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E159@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270305T133000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 05-Mar-2027 08:30 EST. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E160@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270310T133000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 10-Mar-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E161@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270310T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Oracle - quarterly results (ORCL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 10-Mar-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Oracle - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E162@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270311T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Broadcom - quarterly results (AVGO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 11-Mar-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Broadcom - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E163@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270311T210500Z
+DURATION:PT30M
+SUMMARY:[Med] Costco - quarterly results (COST)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 11-Mar-2027 16:05 EST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Costco - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E164@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270312T133000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 12-Mar-2027 08:30 EST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E165@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:[Med] US clocks go forward - US releases arrive 1 hr earlier in NZ
+DESCRIPTION:Time Change | Scheduled (rule-based) | Source time: All day (local date 14-Mar-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Time Change
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US clocks go forward - US releases arrive 1 hr earlier in NZ
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E166@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270317T010000Z
+DURATION:PT30M
+SUMMARY:[High] RBNZ OCR decision - Monetary Policy Statement
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 17-Mar-2027 14:00 NZDT. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E167@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:[Low] Fonterra (H1) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 18-Mar-2027). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fonterra (H1) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E168@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270317T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement + SEP/dot plot
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 17-Mar-2027 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement + SEP/dot plot
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E169@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270317T214500Z
+DURATION:PT30M
+SUMMARY:[Med] NZ GDP (Q4 2026)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Thu 18-Mar-2027 10:45 NZDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ GDP (Q4 2026)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E170@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270319T200000Z
+DURATION:PT30M
+SUMMARY:[Med] US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 19-Mar-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E171@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:[Low] Good Friday (NYSE & NZX closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 26-Mar-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Good Friday (NYSE & NZX closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E172@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270326T080000Z
+DURATION:PT30M
+SUMMARY:[High] Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger) (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 26-Mar-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E173@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270326T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 26-Mar-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E174@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:[Low] Easter Monday - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 29-Mar-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Easter Monday - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E175@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270402T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 02-Apr-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E176@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:[Med] NZ daylight saving ends (NZST) - US releases 1 hr later in NZ
+DESCRIPTION:Time Change | Scheduled (rule-based) | Source time: All day (local date 04-Apr-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Time Change
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ daylight saving ends (NZST) - US releases 1 hr later in NZ
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E177@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270407T180000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 07-Apr-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E178@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270413T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 13-Apr-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E179@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] BlackRock - quarterly results (BLK)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: BlackRock - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E180@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Citigroup - quarterly results (C)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Citigroup - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E181@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Goldman Sachs - quarterly results (GS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Goldman Sachs - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E182@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] JPMorgan (bank season starts) - quarterly results (JPM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: JPMorgan (bank season starts) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E183@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Johnson & Johnson - quarterly results (JNJ)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Johnson & Johnson - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E184@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Wells Fargo - quarterly results (WFC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Wells Fargo - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E185@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 14-Apr-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E186@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270414T180000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 14-Apr-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E187@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270415T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Bank of America - quarterly results (BAC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of America - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E188@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270415T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Charles Schwab - quarterly results (SCHW)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Charles Schwab - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E189@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270415T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Morgan Stanley - quarterly results (MS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Morgan Stanley - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E190@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270415T103000Z
+DURATION:PT30M
+SUMMARY:[Med] UnitedHealth - quarterly results (UNH)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: UnitedHealth - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E191@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270415T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Netflix - quarterly results (NFLX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Netflix - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E192@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270416T060000Z
+DURATION:PT30M
+SUMMARY:[High] TSMC - quarterly results (TSM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 16-Apr-2027 14:00 CST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: TSMC - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E193@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270416T200000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 16-Apr-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E194@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270418T224500Z
+DURATION:PT30M
+SUMMARY:[High] NZ CPI (Q1 2027)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Mon 19-Apr-2027 10:45 NZST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ CPI (Q1 2027)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E195@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270421T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Coca-Cola - quarterly results (KO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coca-Cola - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E196@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270421T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Procter & Gamble - quarterly results (PG)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Procter & Gamble - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E197@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270421T200000Z
+DURATION:PT30M
+SUMMARY:[Med] Tesla - quarterly results (TSLA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Apr-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Tesla - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E198@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270421T200500Z
+DURATION:PT30M
+SUMMARY:[Med] IBM - quarterly results (IBM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: IBM - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E199@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270422T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Intel - quarterly results (INTC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 22-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Intel - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E200@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:[Low] NZ ANZAC Day (observed) - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 26-Apr-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ ANZAC Day (observed) - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E201@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270427T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Visa - quarterly results (V)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 27-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Visa - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E202@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270428T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 28-Apr-2027 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E203@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270428T200000Z
+DURATION:PT30M
+SUMMARY:[High] Alphabet - quarterly results (GOOGL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Apr-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Alphabet - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E204@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270428T200500Z
+DURATION:PT30M
+SUMMARY:[High] Microsoft - quarterly results (MSFT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Microsoft - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E205@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270429T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Mastercard - quarterly results (MA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Mastercard - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E206@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270429T123000Z
+DURATION:PT30M
+SUMMARY:[High] US GDP (advance estimate)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Thu 29-Apr-2027 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US GDP (advance estimate)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E207@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270429T200000Z
+DURATION:PT30M
+SUMMARY:[High] Amazon - quarterly results (AMZN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Apr-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Amazon - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E208@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270429T200000Z
+DURATION:PT30M
+SUMMARY:[High] Apple - quarterly results (AAPL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Apr-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Apple - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E209@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270429T200500Z
+DURATION:PT30M
+SUMMARY:[High] Meta - quarterly results (META)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Apr-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Meta - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E210@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270430T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 30-Apr-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E211@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270430T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Chevron - quarterly results (CVX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Chevron - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E212@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270430T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Exxon Mobil - quarterly results (XOM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Apr-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Exxon Mobil - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E213@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270430T123000Z
+DURATION:PT30M
+SUMMARY:[Low] US Employment Cost Index
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 30-Apr-2027 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Employment Cost Index
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E214@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270430T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 30-Apr-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E215@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270503T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Berkshire Hathaway - quarterly results (BRK.B)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Mon 03-May-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Berkshire Hathaway - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E216@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270504T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Pfizer - quarterly results (PFE)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 04-May-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Pfizer - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E217@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270504T200500Z
+DURATION:PT30M
+SUMMARY:[Med] AMD - quarterly results (AMD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 04-May-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: AMD - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E218@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270504T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Palantir - quarterly results (PLTR)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 04-May-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Palantir - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E219@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270504T224500Z
+DURATION:PT30M
+SUMMARY:[High] NZ Labour market - unemployment (Q1)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Wed 05-May-2027 10:45 NZST. Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Labour market - unemployment (Q1)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E220@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270505T020000Z
+DURATION:PT30M
+SUMMARY:[Med] RBNZ OCR decision - Monetary Policy Review
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 05-May-2027 14:00 NZST. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Review
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E221@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270506T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Coinbase (crypto bellwether) - quarterly results (COIN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 06-May-2027 16:05 EDT. Lean: Tied to BTC sentiment\; results/guidance move crypto equities and can echo into coins.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coinbase (crypto bellwether) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E222@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270507T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 07-May-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E223@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270512T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 12-May-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E224@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270513T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 13-May-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E225@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270518T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Home Depot - quarterly results (HD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 18-May-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Home Depot - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E226@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270519T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Walmart - quarterly results (WMT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 19-May-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Walmart - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E227@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270519T180000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 19-May-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E228@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270520T020000Z
+DURATION:PT30M
+SUMMARY:[High] NZ Budget 2027
+DESCRIPTION:NZ Politics/Fiscal | Estimated - verify | Source time: Thu 20-May-2027 14:00 NZST. Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Politics/Fiscal
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Budget 2027
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E229@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270521T200000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 21-May-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E230@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:[Low] Fisher & Paykel Healthcare (FY) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 26-May-2027). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fisher & Paykel Healthcare (FY) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E231@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270526T180000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 26-May-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E232@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270526T202000Z
+DURATION:PT30M
+SUMMARY:[High] Nvidia - quarterly results (NVDA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 26-May-2027 16:20 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Nvidia - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E233@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270527T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Costco - quarterly results (COST)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 27-May-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Costco - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E234@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270528T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 28-May-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E235@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270528T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 28-May-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E236@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:[Low] US Memorial Day (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 31-May-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Memorial Day (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E237@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270604T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 04-Jun-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E238@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:[Low] NZ King's Birthday - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 07-Jun-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ King's Birthday - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E239@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270609T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement + SEP/dot plot
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 09-Jun-2027 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement + SEP/dot plot
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E240@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270609T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Oracle - quarterly results (ORCL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 09-Jun-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Oracle - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E241@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270610T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 10-Jun-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E242@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270610T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Broadcom - quarterly results (AVGO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 10-Jun-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Broadcom - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E243@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270611T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 11-Jun-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E244@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270616T020000Z
+DURATION:PT30M
+SUMMARY:[High] RBNZ OCR decision - Monetary Policy Statement
+DESCRIPTION:Central Bank | Confirmed (official) | Source time: Wed 16-Jun-2027 14:00 NZST. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision - Monetary Policy Statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E245@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270616T224500Z
+DURATION:PT30M
+SUMMARY:[Med] NZ GDP (Q1 2027)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Thu 17-Jun-2027 10:45 NZST. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ GDP (Q1 2027)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E246@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:[Low] US Juneteenth observed (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 18-Jun-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Juneteenth observed (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E247@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270617T200000Z
+DURATION:PT30M
+SUMMARY:[Med] US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Thu 17-Jun-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E248@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:[Low] NZ Matariki - NZX closed
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 25-Jun-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Matariki - NZX closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E249@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270625T080000Z
+DURATION:PT30M
+SUMMARY:[High] Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger) (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 25-Jun-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E250@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270625T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 25-Jun-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E251@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270630T180000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 30-Jun-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E252@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270702T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 02-Jul-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E253@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:[Low] US Independence Day observed (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 05-Jul-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Independence Day observed (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E254@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] BlackRock - quarterly results (BLK)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: BlackRock - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E255@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Citigroup - quarterly results (C)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Citigroup - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E256@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Goldman Sachs - quarterly results (GS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Goldman Sachs - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E257@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] JPMorgan (bank season starts) - quarterly results (JPM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: JPMorgan (bank season starts) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E258@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Johnson & Johnson - quarterly results (JNJ)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Johnson & Johnson - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E259@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Wells Fargo - quarterly results (WFC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 14-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Wells Fargo - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E260@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 14-Jul-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E261@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270714T180000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 14-Jul-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E262@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Bank of America - quarterly results (BAC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Bank of America - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E263@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Charles Schwab - quarterly results (SCHW)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Charles Schwab - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E264@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Morgan Stanley - quarterly results (MS)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Morgan Stanley - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E265@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T103000Z
+DURATION:PT30M
+SUMMARY:[Med] UnitedHealth - quarterly results (UNH)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: UnitedHealth - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E266@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Thu 15-Jul-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E267@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270715T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Netflix - quarterly results (NFLX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 15-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Netflix - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E268@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270716T060000Z
+DURATION:PT30M
+SUMMARY:[High] TSMC - quarterly results (TSM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 16-Jul-2027 14:00 CST. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: TSMC - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E269@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270716T200000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 16-Jul-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E270@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270718T224500Z
+DURATION:PT30M
+SUMMARY:[High] NZ CPI (Q2 2027)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Mon 19-Jul-2027 10:45 NZST. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ CPI (Q2 2027)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E271@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270721T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Coca-Cola - quarterly results (KO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coca-Cola - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E272@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270721T200000Z
+DURATION:PT30M
+SUMMARY:[Med] Tesla - quarterly results (TSLA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Jul-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Tesla - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E273@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270721T200500Z
+DURATION:PT30M
+SUMMARY:[Med] IBM - quarterly results (IBM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 21-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: IBM - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E274@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270722T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Intel - quarterly results (INTC)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 22-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Intel - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E275@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270727T200000Z
+DURATION:PT30M
+SUMMARY:[High] Alphabet - quarterly results (GOOGL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 27-Jul-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Alphabet - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E276@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270727T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Visa - quarterly results (V)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 27-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Visa - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E277@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270728T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Procter & Gamble - quarterly results (PG)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Procter & Gamble - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E278@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270728T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 28-Jul-2027 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E279@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270728T200500Z
+DURATION:PT30M
+SUMMARY:[High] Meta - quarterly results (META)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Meta - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E280@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270728T200500Z
+DURATION:PT30M
+SUMMARY:[High] Microsoft - quarterly results (MSFT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 28-Jul-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Microsoft - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E281@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270729T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Mastercard - quarterly results (MA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Mastercard - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E282@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270729T123000Z
+DURATION:PT30M
+SUMMARY:[High] US GDP (advance estimate)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Thu 29-Jul-2027 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US GDP (advance estimate)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E283@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270729T200000Z
+DURATION:PT30M
+SUMMARY:[High] Amazon - quarterly results (AMZN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Jul-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Amazon - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E284@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270729T200000Z
+DURATION:PT30M
+SUMMARY:[High] Apple - quarterly results (AAPL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 29-Jul-2027 16:00 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Apple - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E285@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 30-Jul-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E286@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Chevron - quarterly results (CVX)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Chevron - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E287@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Exxon Mobil - quarterly results (XOM)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Jul-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Exxon Mobil - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E288@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T123000Z
+DURATION:PT30M
+SUMMARY:[Low] US Employment Cost Index
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 30-Jul-2027 08:30 EDT. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Employment Cost Index
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E289@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 30-Jul-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E290@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270730T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Coinbase (crypto bellwether) - quarterly results (COIN)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Fri 30-Jul-2027 16:05 EDT. Lean: Tied to BTC sentiment\; results/guidance move crypto equities and can echo into coins.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Coinbase (crypto bellwether) - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E291@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:[High] Litecoin halving (block 3\,360\,000) - approx. (LTC)
+DESCRIPTION:Crypto | Estimated - verify | Source time: All day (local date 02-Aug-2027). Lean: Run-up often seen beforehand\, but supply cut is known/priced in - 'sell the news' risk. Tiny sample.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Litecoin halving (block 3\,360\,000) - approx.
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E292@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270802T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Berkshire Hathaway - quarterly results (BRK.B)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Mon 02-Aug-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Berkshire Hathaway - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E293@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270803T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Pfizer - quarterly results (PFE)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Aug-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Pfizer - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E294@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270803T200500Z
+DURATION:PT30M
+SUMMARY:[Med] AMD - quarterly results (AMD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Aug-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: AMD - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E295@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270803T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Palantir - quarterly results (PLTR)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 03-Aug-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Palantir - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E296@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270803T224500Z
+DURATION:PT30M
+SUMMARY:[High] NZ Labour market - unemployment (Q2)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Wed 04-Aug-2027 10:45 NZST. Lean: Local NZD/NZ-rates effect\; minimal crypto impact.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ Labour market - unemployment (Q2)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E297@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270804T020000Z
+DURATION:PT30M
+SUMMARY:[High] RBNZ OCR decision
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 04-Aug-2027 14:00 NZST. Lean: Moves NZD and NZ rates\; little direct crypto effect. Hawkish = NZD up.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: RBNZ OCR decision
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E298@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270806T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 06-Aug-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E299@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270810T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 10-Aug-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E300@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270811T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Wed 11-Aug-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E301@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270817T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Home Depot - quarterly results (HD)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Tue 17-Aug-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Home Depot - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E302@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270818T103000Z
+DURATION:PT30M
+SUMMARY:[Med] Walmart - quarterly results (WMT)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 18-Aug-2027 06:30 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Walmart - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E303@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:[Low] Spark NZ (FY) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 19-Aug-2027). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Spark NZ (FY) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E304@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270818T180000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 18-Aug-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E305@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270820T200000Z
+DURATION:PT30M
+SUMMARY:[Low] US monthly options expiry
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 20-Aug-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E306@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:[Low] Air New Zealand (FY) results
+DESCRIPTION:Earnings | Estimated - verify | Source time: All day (local date 26-Aug-2027). Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Air New Zealand (FY) results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E307@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:[High] Jackson Hole Economic Symposium (approx.)
+DESCRIPTION:Central Bank | Estimated - verify | Source time: All day (local date 26-Aug-2027). Lean: Chair speech can reset rate expectations\; hawkish = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Jackson Hole Economic Symposium (approx.)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E308@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270825T202000Z
+DURATION:PT30M
+SUMMARY:[High] Nvidia - quarterly results (NVDA)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 25-Aug-2027 16:20 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Nvidia - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E309@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270827T080000Z
+DURATION:PT30M
+SUMMARY:[Med] Deribit BTC/ETH monthly options & futures expiry (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 27-Aug-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E310@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270827T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 27-Aug-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E311@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270901T180000Z
+DURATION:PT30M
+SUMMARY:[Low] Fed Beige Book
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 01-Sep-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Fed Beige Book
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E312@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270903T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 03-Sep-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E313@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:[Low] US Labor Day (NYSE closed)
+DESCRIPTION:Holiday / Market Closed | Confirmed (official) | Source time: All day (local date 06-Sep-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Holiday / Market Closed
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Labor Day (NYSE closed)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E314@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270908T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Oracle - quarterly results (ORCL)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Wed 08-Sep-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Oracle - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E315@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270909T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Broadcom - quarterly results (AVGO)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 09-Sep-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Broadcom - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E316@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270910T123000Z
+DURATION:PT30M
+SUMMARY:[Med] US PPI (Producer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 10-Sep-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PPI (Producer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E317@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270914T123000Z
+DURATION:PT30M
+SUMMARY:[High] US CPI (Consumer Price Index)
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Tue 14-Sep-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US CPI (Consumer Price Index)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E318@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270915T180000Z
+DURATION:PT30M
+SUMMARY:[High] FOMC rate decision + statement + SEP/dot plot
+DESCRIPTION:Central Bank | Confirmed (Fed tentative 2027 calendar) | Source time: Wed 15-Sep-2027 14:00 EDT. Lean: Mild upward drift into the decision has been seen in stocks (fading)\; crypto often positions early\, then reacts to hawkish/dovish tone. Higher rate than expected = bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC rate decision + statement + SEP/dot plot
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E319@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270915T224500Z
+DURATION:PT30M
+SUMMARY:[Med] NZ GDP (Q2 2027)
+DESCRIPTION:NZ Macro Data | Estimated - verify | Source time: Thu 16-Sep-2027 10:45 NZST. Lean: Low direct crypto impact\; matters via rate expectations.
+CATEGORIES:NZ Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ GDP (Q2 2027)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E320@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270917T200000Z
+DURATION:PT30M
+SUMMARY:[Med] US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+DESCRIPTION:Options Expiry | Scheduled (rule-based) | Source time: Fri 17-Sep-2027 16:00 EDT. Lean: Mild positive seasonality in opex week\; quad witching = high volume/volatility.
+CATEGORIES:Options Expiry
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US monthly options expiry - QUAD WITCHING (index/stock futures + options)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E321@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270923T200500Z
+DURATION:PT30M
+SUMMARY:[Med] Costco - quarterly results (COST)
+DESCRIPTION:Earnings | Estimated - verify | Source time: Thu 23-Sep-2027 16:05 EDT. Lean: Option IV rises into the print then drops after\; share direction ~coin flip\, slight positive drift on average. Big-tech tone can shift risk appetite.
+CATEGORIES:Earnings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Costco - quarterly results
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E322@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270924T080000Z
+DURATION:PT30M
+SUMMARY:[High] Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger) (BTC)
+DESCRIPTION:Crypto | Scheduled (rule-based) | Source time: Fri 24-Sep-2027 08:00 UTC. Lean: Higher volatility/pinning risk near large strikes\; quarterly bigger. Direction two-way.
+CATEGORIES:Crypto
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Deribit BTC/ETH monthly options & futures expiry (QUARTERLY - larger)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E323@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20270924T123000Z
+DURATION:PT30M
+SUMMARY:[High] US PCE inflation (Fed preferred gauge)
+DESCRIPTION:US Macro Data | Estimated - verify | Source time: Fri 24-Sep-2027 08:30 EDT. Lean: Range-bound/quiet before\; sharp move at release. Direction set by surprise.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US PCE inflation (Fed preferred gauge)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E324@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:[Med] NZ daylight saving starts (NZDT)
+DESCRIPTION:Time Change | Scheduled (rule-based) | Source time: All day (local date 26-Sep-2027). Lean: Thin liquidity\; wider/odd moves possible. Time shifts change NZ release times.
+CATEGORIES:Time Change
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: NZ daylight saving starts (NZDT)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E325@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20271006T180000Z
+DURATION:PT30M
+SUMMARY:[Med] FOMC minutes released
+DESCRIPTION:Central Bank | Estimated - verify | Source time: Wed 06-Oct-2027 14:00 EDT. Lean: Minor event\; hawkish tone = mildly bearish.
+CATEGORIES:Central Bank
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: FOMC minutes released
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:E326@nz-market-calendar
+DTSTAMP:20261014T075207Z
+DTSTART:20271008T123000Z
+DURATION:PT30M
+SUMMARY:[High] US Non-Farm Payrolls / Employment Situation
+DESCRIPTION:US Macro Data | Confirmed (official) | Source time: Fri 08-Oct-2027 08:30 EDT. Lean: Quiet before\; strong data = hawkish (usually risk-off)\, very weak = recession fear (also risk-off). In-line is the calm case.
+CATEGORIES:US Macro Data
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: US Non-Farm Payrolls / Employment Situation
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

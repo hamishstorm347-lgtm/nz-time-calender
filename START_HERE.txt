@@ -1,0 +1,84 @@
+NZ MARKETS CALENDAR - AUTO-UPDATING WEB PAGE
+=============================================
+What you get
+  index.html            the web page (countdowns, 24h alerts, filters, your tickers)
+  update_events.py      the daily updater (runs by itself every morning, NZ time)
+  data/events_base.json the event list (what I researched up to 12-14 Oct 2026)
+  data/events.json      built automatically from the list above (don't edit)
+  calendar.ics          built automatically - subscribe to it in your phone calendar
+  PASTE_THIS_update.yml.txt   the scheduler instructions (you paste this in Step 4)
+
+What it updates by itself: the "last updated" time, NZ time conversions (incl. daylight
+saving), and - if you add a free Finnhub key - ESTIMATED US earnings dates become CONFIRMED dates.
+What it does NOT do yet: write new news/sentiment text, or find brand-new events.
+Those still come from me (ask for a refresh) until we build Stage 3.
+
+SETUP (about 30-40 minutes, easiest on a laptop/desktop)
+--------------------------------------------------------
+STEP 1  Make a free GitHub account
+  Go to github.com > Sign up. Confirm your email.
+
+STEP 2  Make a repository (a folder online)
+  Click "+" (top right) > New repository.
+  Name: market-calendar     Visibility: PUBLIC (needed for free web pages)
+  Tick "Add a README file". Click Create repository.
+  (Public means anyone with the link could see it. Don't put private info in it.)
+
+STEP 3  Upload the files
+  Unzip the file I gave you on your computer.
+  In your repository click Add file > Upload files.
+  Drag in: index.html, update_events.py, calendar.ics, START_HERE.txt, and the whole "data" folder.
+  (Do NOT worry about the hidden ".github" folder - Step 4 does that one.)
+  Scroll down, click Commit changes.
+
+STEP 4  Add the scheduler (copy and paste)
+  In the repository click Add file > Create new file.
+  In the name box type exactly:   .github/workflows/update.yml
+  (typing the slashes makes the folders for you)
+  Open PASTE_THIS_update.yml.txt, copy everything, paste into the big box.
+  Click Commit changes > Commit changes.
+
+STEP 5  Turn on the web page
+  Repository > Settings > Pages (left menu).
+  Under "Build and deployment": Source = "Deploy from a branch".
+  Branch = main, folder = / (root). Click Save.
+  Wait 1-2 minutes, refresh. A line appears: "Your site is live at https://YOURNAME.github.io/market-calendar/"
+
+STEP 6  Let the robot save its work
+  Settings > Actions > General > scroll to "Workflow permissions".
+  Choose "Read and write permissions". Click Save.
+
+STEP 7  (Optional but recommended) Free earnings-date checking
+  Go to finnhub.io > Get free API key > register. Copy the key from your dashboard.
+  In your repository: Settings > Secrets and variables > Actions > New repository secret.
+  Name: FINNHUB_API_KEY      Secret: (paste your key)      Click Add secret.
+  (Never paste the key into any file. Secrets are hidden and safe.)
+
+STEP 8  Run it once to test
+  Click the "Actions" tab. Click "Update calendar" (left). Click "Run workflow" > Run workflow.
+  Wait ~1 minute. A green tick = success. A red cross = click it and send me the error text.
+  From now on it runs by itself every morning (~7am NZ).
+
+STEP 9  Open your page
+  https://YOURNAME.github.io/market-calendar/   (replace YOURNAME with your GitHub username)
+  Add it to your phone home screen: browser menu > Add to Home Screen.
+  Type your tickers (e.g. BTC, ETH, NVDA) in the "My tickers" box - they're remembered on that device.
+
+STEP 10  Real phone alerts (24h before each event)
+  The web page can't push alerts, but your calendar app can.
+  Google Calendar (computer): Other calendars (+) > From URL >
+     https://YOURNAME.github.io/market-calendar/calendar.ics
+  iPhone: Settings > Calendar > Accounts > Add Account > Other > Add Subscribed Calendar > paste the same URL.
+  Google can take many hours to refresh subscribed calendars. That is normal.
+
+IF SOMETHING GOES WRONG
+  Page says "Could not load data/events.json": run Step 8 once, or check the "data" folder uploaded.
+  Page shows 404: Step 5 not done yet, or wait 2 minutes.
+  Red cross in Actions: open it, copy the error, send it to me.
+  "Permission denied / 403" in Actions: redo Step 6.
+
+KEEPING THE EVENT LIST FRESH
+  The list currently runs to 11 Oct 2027 and the sentiment text is as of mid Oct 2026.
+  Ask me for a refresh (weekly is good): I'll give you a new data/events_base.json.
+  To use it: repository > data > events_base.json > pencil icon (or upload to replace) > Commit.
+  Then run Step 8 again.
